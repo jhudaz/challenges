@@ -6,7 +6,7 @@
 
 - 🦄 **Developer:** Jaime Andres Velez Rojas  
 - 🐇 **Social network:** *https://twitter.com/jaimeandresvel7*
-- 🦾 **Profile:** *Medio *
+- 🦾 **Profile:** Mid
 - 💬 **Phrase**: *npm install js --in-your-soul*
 
 
